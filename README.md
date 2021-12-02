@@ -8,7 +8,7 @@ Several projects contain other people's intellectual property so I provide acces
 
 - @Codewars: https://www.codewars.com/users/slasaru
 - @Datacamp: https://datacamp.com/profile/af3ac2fb15a07ccde30aff7eea83cc58
-
+- @Microsoft Academy Professional Certificate: https://courses.edx.org/certificates/e20ea445f0574fcaa02de81fe24d6e04
 ------------------
 
 - 👋 Здравствуйте, я @slasaru
@@ -21,3 +21,4 @@ Several projects contain other people's intellectual property so I provide acces
 
 - @Codewars: https://www.codewars.com/users/slasaru
 - @Datacamp: https://datacamp.com/profile/af3ac2fb15a07ccde30aff7eea83cc58
+- @Microsoft Academy Professional Certificate: https://courses.edx.org/certificates/e20ea445f0574fcaa02de81fe24d6e04
