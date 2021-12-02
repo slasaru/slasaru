@@ -6,6 +6,8 @@
 This repository will show some of my projects.
 Several projects contain other people's intellectual property so I provide access to them only to the interviewers directly.
 
+@Codewars: https://www.codewars.com/users/slasaru
+
 ------------------
 
 - 👋 Здравствуйте, я @slasaru
@@ -15,3 +17,5 @@ Several projects contain other people's intellectual property so I provide acces
 
 Здесь расположены некоторые мои проекты.
 Некоторые из них содержат информацию, защищенную чужими интеллектуальными правами, поэтому доступ к ним будет предоставлен по запросу и только рекрутерам.
+
+@Codewars: https://www.codewars.com/users/slasaru
