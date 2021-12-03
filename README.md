@@ -11,7 +11,7 @@ Several projects contain other people's intellectual property so I provide acces
 - @Codewars: https://www.codewars.com/users/slasaru
 ------------------
 
-- 👋 Здравствуйте, я @slasaru
+- 👋 Здравствуйте, я Вячеслав @slasaru
 - 👀 Я занимаюсь Python / SQL / анализом данных
 - 💞️ Хочу сотрудничать в сфере анализа данных
 - 📫 Мой контакт: slasaru@gmail.com
