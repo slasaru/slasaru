@@ -26,17 +26,17 @@ This repository will show some of my projects.
 +--------------------------------------------------------+-------------------------------------------+-----------------------------------------------------------------------------------------+
 | Проект                                                 | Навыки и инструменты                      | Ссылка                                                                                  |
 |--------------------------------------------------------+-------------------------------------------+-----------------------------------------------------------------------------------------|
-| Исследование объявлений о продаже квартир              | Matplotlib, Pandas, визуализация данных,  | [Link](https://github.com/slasaru/Yandex.Praktikum/blob/main/1.data_preparation.ipynb)  |
+| Исследование объявлений о продаже квартир              | Matplotlib, Pandas, визуализация данных,  | <https://html5zombo.com>  |
 |                                                        | исследовательский анализ данных,          |                                                                                         |
 |                                                        | предобработка данных                      |                                                                                         |
-| Определение перспективного тарифа для телеком-компании | Matplotlib, NumPy, Pandas, SciPy,         | [Link](https://github.com/slasaru/Yandex.Praktikum/blob/main/1.data_preparation.ipynb)  |
+| Определение перспективного тарифа для телеком-компании | Matplotlib, NumPy, Pandas, SciPy,         | <https://html5zombo.com>  |
 |                                                        | описательная статистика,                  |                                                                                         |
 |                                                        | проверка статистических гипотез           |                                                                                         |
-| Анализ бизнес-показателей                              | Matplotlib, Pandas,                       | [Link](https://github.com/slasaru/Yandex.Praktikum/blob/main/1.data_preparation.ipynb)  |
+| Анализ бизнес-показателей                              | Matplotlib, Pandas,                       | <https://html5zombo.com>  |
 |                                                        | когортный анализ,                         |                                                                                         |
 |                                                        | продуктовые метрики,                      |                                                                                         |
 |                                                        | юнит-экономика                            |                                                                                         |
-| Принятие решений в бизнесе на основе данных            | A/B-тестирование,                         | [Link](https://github.com/slasaru/Yandex.Praktikum/blob/main/1.data_preparation.ipynb)] |
+| Принятие решений в бизнесе на основе данных            | A/B-тестирование,                         | <https://html5zombo.com> |
 |                                                        | Matplotlib,                               |                                                                                         |
 |                                                        | Pandas, SciPy,                            |                                                                                         |
 |                                                        | проверка статистических гипотез           |                                                                                         |
