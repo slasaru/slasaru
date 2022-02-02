@@ -52,4 +52,4 @@ This repository will show some of my projects.
 
 | Project     | Description      | Skills      | Link  |
 | :------------ |   :---:       | :---:       |--------: |
-| SQL queries        | Just some SQL showoff | `SQL, T_SQL, Postgres, stock analysis, querying`         | [Repository](https://github.com/slasaru/SQL)   |
+| SQL queries        | Just some SQL skills to showoff | `SQL, T_SQL, Postgres, stock analysis, querying`         | [Repository](https://github.com/slasaru/SQL)   |
